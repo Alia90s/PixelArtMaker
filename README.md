@@ -1,4 +1,4 @@
-
+<h1>Pixel Art Maker</h1>
 Create Pixel Art Maker using: 
 <ul>
   <li>HTML.
